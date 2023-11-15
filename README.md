@@ -1,1 +1,1 @@
-# Skin_disease
+# Skin_disease classification
